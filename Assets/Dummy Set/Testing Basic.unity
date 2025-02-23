@@ -135,7 +135,6 @@ GameObject:
   - component: {fileID: 1124940503}
   - component: {fileID: 1124940502}
   - component: {fileID: 1124940506}
-  - component: {fileID: 1124940505}
   - component: {fileID: 1124940507}
   - component: {fileID: 1124940508}
   m_Layer: 0
@@ -233,23 +232,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1124940505
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1124940500}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 962a56485a8e126408b32d279fa334ee, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  moveSpeed: 10
-  jumpForce: 20
-  attackCooldown: 0.5
-  rb: {fileID: 0}
-  animator: {fileID: 0}
 --- !u!50 &1124940506
 Rigidbody2D:
   serializedVersion: 4
