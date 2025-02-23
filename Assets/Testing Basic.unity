@@ -245,8 +245,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 962a56485a8e126408b32d279fa334ee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moveSpeed: 5
-  jumpForce: 10
+  moveSpeed: 8
+  jumpForce: 20
+  attackCooldown: 0.5
+  rb: {fileID: 0}
+  animator: {fileID: 0}
 --- !u!50 &1124940506
 Rigidbody2D:
   serializedVersion: 4
@@ -261,8 +264,8 @@ Rigidbody2D:
   m_UseAutoMass: 0
   m_Mass: 1
   m_LinearDrag: 0
-  m_AngularDrag: 5
-  m_GravityScale: 2
+  m_AngularDrag: 0.05
+  m_GravityScale: 6
   m_Material: {fileID: 0}
   m_IncludeLayers:
     serializedVersion: 2
