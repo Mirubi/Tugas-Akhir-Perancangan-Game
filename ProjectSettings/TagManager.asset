@@ -5,6 +5,7 @@ TagManager:
   serializedVersion: 2
   tags:
   - Ground
+  - platform
   layers:
   - Default
   - TransparentFX
@@ -41,4 +42,13 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 4237853039
+    locked: 0
+  - name: Decoration
+    uniqueID: 4002059051
+    locked: 0
+  - name: Platform
+    uniqueID: 3471642933
     locked: 0
