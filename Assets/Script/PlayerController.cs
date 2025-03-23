@@ -11,6 +11,8 @@ public class PlayerMovement : MonoBehaviour
     private bool isFacingRight = true;
     private bool isWalking;
     private bool isGrounded;
+    private bool isTouchingWall;
+    private bool isWallSliding;
     private bool canJump;
 
     private Rigidbody2D rb;
@@ -21,8 +23,11 @@ public class PlayerMovement : MonoBehaviour
     public float MovementSpeed = 10.0f;
     public float JumpForce = 16.0f;
     public float groundCheckRadius;
+    public float wallCheckDistance;
+    public float WallSlideSpeed;
 
     public Transform groundCheck;
+    public Transform wallCheck;
 
     public LayerMask whatIsGround;
 
@@ -41,6 +46,7 @@ public class PlayerMovement : MonoBehaviour
         CheckMovementDirection ();
         UpdateAnimation();
         CheckIfCanJump();
+        CheckIfWallSliding();
     }
 
     private void FixedUpdate ()
@@ -49,9 +55,24 @@ public class PlayerMovement : MonoBehaviour
         CheckSurroundings();
     }
 
+    private void CheckIfWallSliding ()
+    {
+        if(isTouchingWall && !isGrounded && rb.velocity.y < 0)
+        {
+            isWallSliding = true;
+        }
+        else 
+        {
+            isWallSliding = false;
+        }
+    }
+
     private void CheckSurroundings ()
     {
         isGrounded = Physics2D.OverlapCircle(groundCheck.position, groundCheckRadius, whatIsGround);
+
+        isTouchingWall = Physics2D.Raycast(wallCheck.position, transform.right, wallCheckDistance, whatIsGround);
+
     }
 
     private void CheckIfCanJump()
@@ -103,6 +124,7 @@ public class PlayerMovement : MonoBehaviour
         anim.SetBool("isWalking", isWalking);
         anim.SetBool("isGrounded", isGrounded);
         anim.SetFloat("yVelocity", rb.velocity.y);
+        
     }
     private void CheckInput()
     {
@@ -123,6 +145,14 @@ public class PlayerMovement : MonoBehaviour
     private void ApplyMovement()
     {
         rb.velocity = new Vector2(MovementSpeed * MovementInputDiretion, rb.velocity.y);
+
+        if (isWallSliding)
+        {
+            if(rb.velocity.y < -WallSlideSpeed)
+            {
+                rb.velocity = new Vector2(rb.velocity.x, - WallSlideSpeed);
+            }
+        }
     }
     private void Flip()
     {
@@ -132,6 +162,16 @@ public class PlayerMovement : MonoBehaviour
 
     private void OnDrawGizmos()
     {
+        if (groundCheck != null)
+    {
         Gizmos.DrawWireSphere(groundCheck.position, groundCheckRadius);
     }
+
+        if (wallCheck != null)
+    {
+        Gizmos.DrawLine(wallCheck.position, new Vector3(wallCheck.position.x + wallCheckDistance, wallCheck.position.y, wallCheck.position.z));
+    }
+
+}
+
 }
