@@ -1,0 +1,3308 @@
+fileFormatVersion: 2
+guid: 1c0fbb7226b6ff64a9929fa1722812ae
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 120
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1383
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7402d769a4d4d1548a8277d16a73db79
+      internalID: -343008873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_1
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1383
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b12587fc7b82a6a49805250b8e676475
+      internalID: 273411493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_2
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1383
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd34efbe441acd4b865f5fdbd86cf78
+      internalID: 1555141179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_3
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 1383
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f10c3cb4f0364041a62094fd4dc315c
+      internalID: 322145729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_4
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 1383
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d42134bc7272245806d365f780e05d
+      internalID: 996750925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_5
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 1383
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4145805f02607344cbe8de66ca798d8a
+      internalID: 117795044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_6
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 1383
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9a3bf31c3042a641ad37d2e919c1d04
+      internalID: -43120701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_7
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 1383
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea6d92bc3c0915b439c3a9a665697b12
+      internalID: -726426548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_8
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 1383
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8602703ae7a3087498e46718e2da0887
+      internalID: 1083550821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_9
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 1383
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c8d0ab1794c0ef479e78e8fb4d05b7a
+      internalID: -47189118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_10
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 1383
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99db22413caf7924fa9a471817c0ce30
+      internalID: 898640924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_11
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 1383
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f78447624c0e3214d99fa3737d315f42
+      internalID: -1183899639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1263
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5efc6bd1fc5178d4c865da30852322e3
+      internalID: -1877031286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_13
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1263
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9043ebf9c7db725429a26cc0bf79035c
+      internalID: 792358848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_14
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1263
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ed4c6563a4787c47aeadfcd0e96f595
+      internalID: -1305804710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_15
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 1263
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be8d8f57c8c2767439c61f9bbcd7063a
+      internalID: 1400669263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_16
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 1263
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc61f44bee5a1324998858a18279b152
+      internalID: 1353509234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_17
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 1263
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f5b5fa39b9b7ea428b81efe9df4f5f1
+      internalID: -144109382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_18
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 1263
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb5b0fe1c98894044b6e95b9ea1d9d96
+      internalID: 142181562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_19
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 1263
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c6ef31d4232bf409808900511b0727
+      internalID: -1960715909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_20
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 1263
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f744b14b23db94c4e91934e05986aeab
+      internalID: 1682950306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_21
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 1263
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b325edae69932934b978bbae0c429b59
+      internalID: 661597622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_22
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 1263
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fcbeb7acac219e46aa5098b58af4d00
+      internalID: -1445068819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_23
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 1263
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2aca0c0dfeb60d458f08507c861496b
+      internalID: -1682126638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1143
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b56ef07f1a4d504eb43776c89a18774
+      internalID: 738810235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_25
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1143
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cdcb310f9b68a343af165dff2a4753c
+      internalID: -176605453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_26
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1143
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee1087d9373684744b885ba81fa6bdbc
+      internalID: -335940768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_27
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 1143
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82445d35116b33d408672a409118d37d
+      internalID: -1544280552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_28
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 1143
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d31f9a3fb6a2f74d8a5766e7459efe0
+      internalID: 1052106457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_29
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 1143
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06bc6d9049a972d438d758b2a54c4fdf
+      internalID: -197311263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_30
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 1143
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b814c290ad36994fa237ed0ebfe851b
+      internalID: -1668465676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_31
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 1143
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a50dbadbf19424f844e1d8289fc123
+      internalID: -14687454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_32
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 1143
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9962c5e17a85fc5478284d9d98b1475b
+      internalID: -1351059248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_33
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 1143
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0efd0106eb7537147b58396340440874
+      internalID: -298399303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_34
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 1143
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c49b042b09d7a9448aa9464e860cb71
+      internalID: -1127382325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_35
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 1143
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1910a18cf057b3848b067d2b461c64cd
+      internalID: -1888103026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1023
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52355086831197549be74e9e595b2eb6
+      internalID: 802073881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_37
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1023
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4bce3ccee5f25040ba090e541544152
+      internalID: 1829213704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_38
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1023
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 601e112f5fd8afa40be305c3d2dba112
+      internalID: 684490158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_39
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 1023
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 964993988c5c8e24e973904c7b19edb0
+      internalID: -2038283764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_40
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 1023
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83130662b6f4400459cdc7f83ffa76dd
+      internalID: 1331663849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_41
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 1023
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 821b72b053e813f47b8658dcbd1147a8
+      internalID: -470707315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_42
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 1023
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2da3ea49c11e6e4880cd5cd258b37d3
+      internalID: 181545101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_43
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 1023
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec944efbc84aea04f80474498788e21e
+      internalID: 1396612577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_44
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 1023
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9415bc4be921fe4298f6a39e50c6ed2
+      internalID: 1359987841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_45
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 1023
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57cfd3cef5ba2fd49b2cdbb50a2f1c57
+      internalID: -559328509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_46
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 1023
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bbb173fe4445f54b980016bb05552f8
+      internalID: -782414936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_47
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 1023
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 850c3009560673f4987b45b446347fc4
+      internalID: 1003788244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 903
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 845e1b60aecc10f43915784d675b986f
+      internalID: -1239307325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_49
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 903
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d1421244aaf044c827dc53d5e2f963
+      internalID: 1052712885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_50
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 903
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d92fce60e899b4a9ab941d6974261a
+      internalID: -512926995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_51
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 903
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b488904f74d92ae498ee5e5610b3725e
+      internalID: -2092819220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_52
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 903
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4989e27e96d659240b8b4e3aec4bd2cc
+      internalID: 308111275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_53
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 903
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16700561cc1b37f4ab48a6e0e6360785
+      internalID: 652664773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_54
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 903
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce84f2d601a4c541a2d74f72e58c1b5
+      internalID: 869686145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_55
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 903
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f5406f080cef248bf083ab9a6242cb
+      internalID: -381903928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_56
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 903
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc5be2bbcec018d4db1532da28b09de8
+      internalID: 66542542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_57
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 903
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77539107adfffa548b7bb628e2a3712a
+      internalID: 2041990991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_58
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 903
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbf2c1cabfcae894ea63e6735f8ee99a
+      internalID: -2025628268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_59
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 903
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f73539991ec8df40bf884fc14203c26
+      internalID: -245429938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 783
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a6ca5ba40442ba4b94e6dbc63817efb
+      internalID: -2094821447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_61
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 783
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d0137f95c0fbb2448ef1d7ddf6e0eb8
+      internalID: 342973922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_62
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 783
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c803cadf1d1544db3064d951e8fbbb
+      internalID: 538995807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_63
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 783
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f9a662c42442c54b94e0ab5b4b233b3
+      internalID: -210503326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_64
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 783
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b942fe08d6e0c9a47b25c59b4aca1d57
+      internalID: 107920189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_65
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 783
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adaabdeea96505d4e8a3eab2404059d9
+      internalID: 201087018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_66
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 783
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 329e7922848f91641be60c6029399ffc
+      internalID: 1268376792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_67
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 783
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6526eec18a3d27e49b2a2992cd80a152
+      internalID: 965319495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_68
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 783
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 359b99544c4829b4ead5e8369f94419e
+      internalID: -387246628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_69
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 783
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca76c4b434cbb3847b3f4084f2d615a7
+      internalID: -754254885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_70
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 783
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31346763258b72d4cb0e9004d59f9ab6
+      internalID: 821448420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_71
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 783
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83aabacff36d15a489c5c471e3292ff0
+      internalID: -718418183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 663
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54943c639563e934885eeda04a94090b
+      internalID: -1445686636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_73
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 663
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e4336bce372dd4dbe1501b04354b0d
+      internalID: 943189374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_74
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 663
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 834e387fbaa460f4f8067a8ea38e1c06
+      internalID: -833900350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_75
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 663
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cc7cb34d4110be44b82ab71c7abdde3
+      internalID: 1302633455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_76
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 663
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d978eefef5249004da73febd81970eef
+      internalID: 667758079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_77
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 663
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a1a7679d5fbb24cbc736a95aafec91
+      internalID: 1240864484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_78
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 663
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 558b22a7a86bb1c4d83261ac47111a79
+      internalID: -1691254242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_79
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 663
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1062f7034c127e64891f47ab5d8001c0
+      internalID: 654582428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_80
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 663
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba090cb4c9a33e43af2a2fe03b3937b
+      internalID: -175048361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_81
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 663
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 701b991368bdae549ba78782e0c17e69
+      internalID: -283490162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_82
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 663
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a98dfcc953a70ac43a746ee1e4c57262
+      internalID: -370728714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_83
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 663
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de2648ecf9125824f89da4d44f94fd8b
+      internalID: 872947241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 543
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c2f2ed5e7b79ad42bf824a4ecb58e35
+      internalID: 1228687685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_85
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 543
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69e1e60284382a6498b741e95bec7800
+      internalID: 692397918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_86
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 543
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8966ba81ad3953a499ae5ef84b8cc757
+      internalID: -1281476557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_87
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 543
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25bc91ed5b07cf24c95a870c3ba8b83f
+      internalID: -664504592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_88
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 543
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89645ff3eb129f849879f49149461907
+      internalID: 1206793743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_89
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 543
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 537b09bb05660c64bb9b16be2d0ef63a
+      internalID: -1951488244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_90
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 543
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 339490251487d9748a0908360d131572
+      internalID: -1729365074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_91
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 543
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bbc14e986da6d148bd392afa6fd3667
+      internalID: -150647643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_92
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 543
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c65bec386a18714428032e09e9f8c6ad
+      internalID: 465212878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_93
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 543
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 527dceefabce0214b9636f1bf289aca4
+      internalID: 2115925787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_94
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 543
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e9066584105d264f9c9f448b734a8cc
+      internalID: -1151642615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_95
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 543
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37008f2bce0b98349a19673e55076749
+      internalID: -188393717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 423
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b028804f6c3d64ba5a9817a18003f2
+      internalID: 346928868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_97
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 423
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a480f825eac6b0442b0811b5c55cc6d0
+      internalID: 450635050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_98
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 423
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a17a10be25a40014290c2695ce966cd1
+      internalID: -524871034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_99
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 423
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 233fd6ab60db17f4cae5ae56ccd7baec
+      internalID: -722719428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_100
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 423
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 319b393c9eadbde4ebb6d92b48cdc522
+      internalID: 1307391964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_101
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 423
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c24cb94ea54759d429cdde72d5ac732a
+      internalID: 1733581777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_102
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 423
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2085eeb1108d6248b94d197de388452
+      internalID: 1146314859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_103
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 423
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b29c8252f16035b47a6bb44ca2f6ca8b
+      internalID: -301454655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_104
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 423
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1ddd337d8ab8cd47a4c047865878382
+      internalID: -669632005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_105
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 423
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f099cd00ba5274b4fba18995a8f808a0
+      internalID: -561948415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_106
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 423
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7c40600cf590ea45b6c0ac4bb9b9885
+      internalID: 1203332096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_107
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 423
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a86a6630c74cc2340ba2c66130c161d2
+      internalID: -2016035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 303
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34db8eca9bbf63e4a80f9c960ae3c578
+      internalID: 964668284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_109
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 303
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf704fedb7f2a240bcabc6d72f165d7
+      internalID: -156731910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_110
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 303
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 099aea3335184064091ceffa012fdc12
+      internalID: 117672795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_111
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 303
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bc9b4743affd234ba7a7404a7b9cbd4
+      internalID: -113115779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_112
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 303
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e4a7a819639faf428682163ebb430f4
+      internalID: -1117016646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_113
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 303
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6ab576742e1e9647a3ae646b755e262
+      internalID: 1048567858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_114
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 303
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f578f004d2e015149b5d924b7b7756e7
+      internalID: -2012766108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_115
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 303
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f28ccf45279cd0949b817b671e6a109a
+      internalID: -2018905355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_116
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 303
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e9550a875c91f244a842b0f30fc2a88
+      internalID: -765450075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_117
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 303
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d52835fa55118564ca3a95a3da926e33
+      internalID: 1036102205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_118
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 303
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cccd24185a3f6764792cbd56edef1b63
+      internalID: 112895444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_119
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 303
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f87d4d5dae2f9a2429c3f30efc50645d
+      internalID: 255637012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 183
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce57158bbade6f49abe2641bb9cc901
+      internalID: 80164430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_121
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 183
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b01829850f70544e8c57ddcbfaa15bb
+      internalID: -864858298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_122
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 183
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0862c5428068be44818b66fd206df99
+      internalID: 1000901604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_123
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 183
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe7ea9939f42ec54c8442f55ec26ac80
+      internalID: 1721352264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_124
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 183
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 666feb156e65bf748a55217a4d038d0c
+      internalID: -91668652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_125
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 183
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 552500ee84f7c7a41972cba83bfe206f
+      internalID: 195942263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_126
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 183
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc36c82031fda094087ac3ed836db1a9
+      internalID: -1450621400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_127
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 183
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a0d084837124a54fb10a4b983851b4b
+      internalID: -1716883227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_128
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 183
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb15bda134bec60429f6e07e8bea11ff
+      internalID: -1338188443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_129
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 183
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7502b9e65831abc4faf97ce2f345e9b9
+      internalID: -102131622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_130
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 183
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a847dc8312a2f36459f7a1d188f50bca
+      internalID: -811977438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_131
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 183
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35ce7807df49c55489df769134dff065
+      internalID: 1471470545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_132
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 63
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b523aa93510c64c9112dfa658e7fc2
+      internalID: -213785844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_133
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 63
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d919a8997b6d3fc4f998121cfb22be36
+      internalID: 1018019818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_134
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 63
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62c91a8cb4c8f664c8f9e1b98c1cd8fd
+      internalID: -87879999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_135
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 63
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 263792754d16af94fb2ab81c19804c62
+      internalID: 563476932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_136
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 63
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afedde0d79abe7041b3951a02fbc4478
+      internalID: 684728930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_137
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 63
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 725ce9a9685efd04281cc6608f70425f
+      internalID: 1249290087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_138
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 63
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc6275b340010e4fb4d234e7cf4ee73
+      internalID: 656017538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_139
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 63
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f60acacbeed15694380a6057bf808cfc
+      internalID: 1297112729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_140
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 63
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31aac147513a4f947ac4d7d1dfe8289b
+      internalID: -357589564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_141
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 63
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b63ea68c3a3a01c46a164b098e8f8284
+      internalID: -655705382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_142
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 63
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a3ee7c30947dc549bac53f093cfb2ce
+      internalID: -2102406938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: make-tileset-platformer-game_143
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 63
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d4cc058db9675a4fb6e24a2ac3ce5b2
+      internalID: 1492480018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      make-tileset-platformer-game_0: -343008873
+      make-tileset-platformer-game_1: 273411493
+      make-tileset-platformer-game_10: 898640924
+      make-tileset-platformer-game_100: 1307391964
+      make-tileset-platformer-game_101: 1733581777
+      make-tileset-platformer-game_102: 1146314859
+      make-tileset-platformer-game_103: -301454655
+      make-tileset-platformer-game_104: -669632005
+      make-tileset-platformer-game_105: -561948415
+      make-tileset-platformer-game_106: 1203332096
+      make-tileset-platformer-game_107: -2016035
+      make-tileset-platformer-game_108: 964668284
+      make-tileset-platformer-game_109: -156731910
+      make-tileset-platformer-game_11: -1183899639
+      make-tileset-platformer-game_110: 117672795
+      make-tileset-platformer-game_111: -113115779
+      make-tileset-platformer-game_112: -1117016646
+      make-tileset-platformer-game_113: 1048567858
+      make-tileset-platformer-game_114: -2012766108
+      make-tileset-platformer-game_115: -2018905355
+      make-tileset-platformer-game_116: -765450075
+      make-tileset-platformer-game_117: 1036102205
+      make-tileset-platformer-game_118: 112895444
+      make-tileset-platformer-game_119: 255637012
+      make-tileset-platformer-game_12: -1877031286
+      make-tileset-platformer-game_120: 80164430
+      make-tileset-platformer-game_121: -864858298
+      make-tileset-platformer-game_122: 1000901604
+      make-tileset-platformer-game_123: 1721352264
+      make-tileset-platformer-game_124: -91668652
+      make-tileset-platformer-game_125: 195942263
+      make-tileset-platformer-game_126: -1450621400
+      make-tileset-platformer-game_127: -1716883227
+      make-tileset-platformer-game_128: -1338188443
+      make-tileset-platformer-game_129: -102131622
+      make-tileset-platformer-game_13: 792358848
+      make-tileset-platformer-game_130: -811977438
+      make-tileset-platformer-game_131: 1471470545
+      make-tileset-platformer-game_132: -213785844
+      make-tileset-platformer-game_133: 1018019818
+      make-tileset-platformer-game_134: -87879999
+      make-tileset-platformer-game_135: 563476932
+      make-tileset-platformer-game_136: 684728930
+      make-tileset-platformer-game_137: 1249290087
+      make-tileset-platformer-game_138: 656017538
+      make-tileset-platformer-game_139: 1297112729
+      make-tileset-platformer-game_14: -1305804710
+      make-tileset-platformer-game_140: -357589564
+      make-tileset-platformer-game_141: -655705382
+      make-tileset-platformer-game_142: -2102406938
+      make-tileset-platformer-game_143: 1492480018
+      make-tileset-platformer-game_15: 1400669263
+      make-tileset-platformer-game_16: 1353509234
+      make-tileset-platformer-game_17: -144109382
+      make-tileset-platformer-game_18: 142181562
+      make-tileset-platformer-game_19: -1960715909
+      make-tileset-platformer-game_2: 1555141179
+      make-tileset-platformer-game_20: 1682950306
+      make-tileset-platformer-game_21: 661597622
+      make-tileset-platformer-game_22: -1445068819
+      make-tileset-platformer-game_23: -1682126638
+      make-tileset-platformer-game_24: 738810235
+      make-tileset-platformer-game_25: -176605453
+      make-tileset-platformer-game_26: -335940768
+      make-tileset-platformer-game_27: -1544280552
+      make-tileset-platformer-game_28: 1052106457
+      make-tileset-platformer-game_29: -197311263
+      make-tileset-platformer-game_3: 322145729
+      make-tileset-platformer-game_30: -1668465676
+      make-tileset-platformer-game_31: -14687454
+      make-tileset-platformer-game_32: -1351059248
+      make-tileset-platformer-game_33: -298399303
+      make-tileset-platformer-game_34: -1127382325
+      make-tileset-platformer-game_35: -1888103026
+      make-tileset-platformer-game_36: 802073881
+      make-tileset-platformer-game_37: 1829213704
+      make-tileset-platformer-game_38: 684490158
+      make-tileset-platformer-game_39: -2038283764
+      make-tileset-platformer-game_4: 996750925
+      make-tileset-platformer-game_40: 1331663849
+      make-tileset-platformer-game_41: -470707315
+      make-tileset-platformer-game_42: 181545101
+      make-tileset-platformer-game_43: 1396612577
+      make-tileset-platformer-game_44: 1359987841
+      make-tileset-platformer-game_45: -559328509
+      make-tileset-platformer-game_46: -782414936
+      make-tileset-platformer-game_47: 1003788244
+      make-tileset-platformer-game_48: -1239307325
+      make-tileset-platformer-game_49: 1052712885
+      make-tileset-platformer-game_5: 117795044
+      make-tileset-platformer-game_50: -512926995
+      make-tileset-platformer-game_51: -2092819220
+      make-tileset-platformer-game_52: 308111275
+      make-tileset-platformer-game_53: 652664773
+      make-tileset-platformer-game_54: 869686145
+      make-tileset-platformer-game_55: -381903928
+      make-tileset-platformer-game_56: 66542542
+      make-tileset-platformer-game_57: 2041990991
+      make-tileset-platformer-game_58: -2025628268
+      make-tileset-platformer-game_59: -245429938
+      make-tileset-platformer-game_6: -43120701
+      make-tileset-platformer-game_60: -2094821447
+      make-tileset-platformer-game_61: 342973922
+      make-tileset-platformer-game_62: 538995807
+      make-tileset-platformer-game_63: -210503326
+      make-tileset-platformer-game_64: 107920189
+      make-tileset-platformer-game_65: 201087018
+      make-tileset-platformer-game_66: 1268376792
+      make-tileset-platformer-game_67: 965319495
+      make-tileset-platformer-game_68: -387246628
+      make-tileset-platformer-game_69: -754254885
+      make-tileset-platformer-game_7: -726426548
+      make-tileset-platformer-game_70: 821448420
+      make-tileset-platformer-game_71: -718418183
+      make-tileset-platformer-game_72: -1445686636
+      make-tileset-platformer-game_73: 943189374
+      make-tileset-platformer-game_74: -833900350
+      make-tileset-platformer-game_75: 1302633455
+      make-tileset-platformer-game_76: 667758079
+      make-tileset-platformer-game_77: 1240864484
+      make-tileset-platformer-game_78: -1691254242
+      make-tileset-platformer-game_79: 654582428
+      make-tileset-platformer-game_8: 1083550821
+      make-tileset-platformer-game_80: -175048361
+      make-tileset-platformer-game_81: -283490162
+      make-tileset-platformer-game_82: -370728714
+      make-tileset-platformer-game_83: 872947241
+      make-tileset-platformer-game_84: 1228687685
+      make-tileset-platformer-game_85: 692397918
+      make-tileset-platformer-game_86: -1281476557
+      make-tileset-platformer-game_87: -664504592
+      make-tileset-platformer-game_88: 1206793743
+      make-tileset-platformer-game_89: -1951488244
+      make-tileset-platformer-game_9: -47189118
+      make-tileset-platformer-game_90: -1729365074
+      make-tileset-platformer-game_91: -150647643
+      make-tileset-platformer-game_92: 465212878
+      make-tileset-platformer-game_93: 2115925787
+      make-tileset-platformer-game_94: -1151642615
+      make-tileset-platformer-game_95: -188393717
+      make-tileset-platformer-game_96: 346928868
+      make-tileset-platformer-game_97: 450635050
+      make-tileset-platformer-game_98: -524871034
+      make-tileset-platformer-game_99: -722719428
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

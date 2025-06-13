@@ -44,23 +44,17 @@ TagManager:
     uniqueID: 0
     locked: 0
   - name: Background
-    uniqueID: 4237853039
-    locked: 0
-  - name: Gunung
-    uniqueID: 1405497709
-    locked: 0
-  - name: Background 2
-    uniqueID: 3546105717
+    uniqueID: 2527290789
     locked: 0
   - name: Decoration
-    uniqueID: 4002059051
+    uniqueID: 2940382115
     locked: 0
   - name: Platform
-    uniqueID: 3471642933
+    uniqueID: 3640102485
     locked: 0
   - name: Player
-    uniqueID: 120335773
+    uniqueID: 1677556551
     locked: 0
-  - name: foreground
-    uniqueID: 1276314311
+  - name: Foreground Decoration
+    uniqueID: 585851751
     locked: 0
