@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Tugas-Akhir-Perancangan-Game.sln"
+    "dotnet.defaultSolution": "Perancangan-Game.sln"
 }

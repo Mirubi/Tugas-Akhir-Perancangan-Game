@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 16cb5cfd54a4e8e44add215b164d7492, type: 3}
+  m_Name: AudioData
+  m_EditorClassIdentifier: 
+  audioItems:
+  - audioName: Attack1
+    audioClip: {fileID: 8300000, guid: b0eddbe92b9c249b6a3e6913ea2dc163, type: 3}
+  - audioName: Attack2
+    audioClip: {fileID: 8300000, guid: 962fed30cb2044e488376207e9cd60f3, type: 3}
+  - audioName: MainMenu
+    audioClip: {fileID: 8300000, guid: 4483eea9aa355fc4db47c6aa9df48e3c, type: 3}
+  - audioName: InGameMusic
+    audioClip: {fileID: 8300000, guid: 590a642c2d9cd1d449f242613a85d855, type: 3}
+  - audioName: PlayerTakeDemage
+    audioClip: {fileID: 8300000, guid: 21c4ab875aa9e473ea4e991528cccc1f, type: 3}
+  - audioName: ButtonClick
+    audioClip: {fileID: 8300000, guid: dd0eb403a63a17b45a56690c156aedf1, type: 3}
