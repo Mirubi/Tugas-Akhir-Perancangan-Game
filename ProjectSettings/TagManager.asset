@@ -6,7 +6,12 @@ TagManager:
   tags:
   - Ground
   - platform
+<<<<<<< HEAD
   - LoadingScreen
+=======
+  - Room
+  - DontDestroyOnLoad
+>>>>>>> 92b917eadab6da2f440954156590c76928019227
   layers:
   - Default
   - TransparentFX
